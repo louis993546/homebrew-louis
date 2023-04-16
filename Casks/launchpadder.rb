@@ -4,7 +4,7 @@ cask "launchpadder" do
 
   url "https://molayc.com/blog/download/launchpadder-v1-4/?wpdmdl=711"
   name "LaunchPadder"
-  desc "Organizes and sorts apps and folders on LaunchPad according to certain rules."
+  desc "Organizes and sorts apps and folders on LaunchPad according to certain rules"
   homepage "https://molayc.com/blog/2022/04/07/launchpadder/"
 
   app "LaunchPadder.app"
